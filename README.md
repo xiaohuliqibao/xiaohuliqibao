@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xiaohuliqibao&layout=compact)](https://github.com/xiaohuliqibao/github-readme-stats)
 
 你好，很高兴认识你👋
-我叫** 七宝**
+我叫 **七宝**
 是一名 真正的CV工程师、大乱斗伤害爆表、大数据开发者、互联网人间清醒
 
 座右铭：不积跬步无以至千里
